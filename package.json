@@ -1,0 +1,11 @@
+{
+  "name": "npm-module-testing",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/b3u/npm-module-testing.git",
+  "author": "Binyamin Aron Green (https://binyam.in)",
+  "license": "MIT",
+  "workspaces": [
+    "./packages"
+  ]
+}
